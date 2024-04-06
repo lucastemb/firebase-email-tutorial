@@ -1,10 +1,14 @@
 # Firebase Email Tutorial
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EVJOMYImHs0/0.jpg)](https://www.youtube.com/watch?v=EVJOMYImHs0)
+
 Read More: 
 `https://firebase.google.com/docs/extensions/official/firestore-send-email`
 
-Basic Email Collection Document Schema
+##SMTP Username Template: 
+`smtps://username@smtp.provider.com:465`
 
+##Email Document Schema
 ```
 to: ['someone@example.com'],
 message: {
