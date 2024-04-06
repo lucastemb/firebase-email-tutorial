@@ -1,6 +1,6 @@
 # Firebase Email Tutorial
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EVJOMYImHs0/0.jpg)](https://www.youtube.com/watch?v=EVJOMYImHs0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EVJOMYImHs0/1.jpg)](https://www.youtube.com/watch?v=EVJOMYImHs0)
 
 Read More: 
 `https://firebase.google.com/docs/extensions/official/firestore-send-email`
